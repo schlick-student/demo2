@@ -5,5 +5,4 @@ Adding additional text for the demonstration
 
 ## Markup level 2 modification
 
-This will cause trouble
-This will cause trouble
+just something additional
